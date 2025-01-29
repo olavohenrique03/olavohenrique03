@@ -92,7 +92,7 @@ Olá! Sou estudante de Sistemas de Informação pela Faculdade Mogi das Cruzes, 
   <img 
     align="left" 
     alt="GitHub Stats 1" 
-    height="150" 
+    height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Olavohenrique03&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -100,7 +100,7 @@ Olá! Sou estudante de Sistemas de Informação pela Faculdade Mogi das Cruzes, 
 <img  
     align="left"
     alt="GitHub Stats 2" 
-    height="150" 
+    height="170" 
     style="padding-top: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=olavohenrique03&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
@@ -110,7 +110,7 @@ Olá! Sou estudante de Sistemas de Informação pela Faculdade Mogi das Cruzes, 
 <img
    align="left"
    alt="activity-graph graph" 
-   height="339"
+   height="289"
    style="padding-top: 10px;"
    src="https://github-readme-activity-graph.vercel.app/graph?username=olavohenrique03&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true"
  />
