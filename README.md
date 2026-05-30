@@ -1,12 +1,12 @@
 # 👨🏻‍💻 Olavo Henrique Marques Peixoto
 
-**`Desenvolvedor Front-end Júnior | JavaScript | TypeScript | React | SQL`**
+**`Desenvolvedor Front-end | JavaScript | TypeScript | React | SQL`**
 
-Formado em Sistemas de Informação e atualmente atuando como Analista de Suporte de Sistemas na Incosystem, prestando suporte técnico e funcional ao ERP AS3.
+Formado em Sistemas de Informação pela Universidade de Mogi das Cruzes e atualmente atuando como **Analista de Suporte de Sistemas** na [Incosystem](https://www.incosystem.com.br/), prestando suporte técnico e funcional ao ERP AS3 — sistema de gestão voltado a pequenas e médias indústrias, integrando áreas como vendas, compras, financeiro, produção, estoque e fiscal.
 
-Tenho experiência com análise de sistemas, banco de dados Oracle SQL, XML, documentação técnica e resolução de problemas em ambientes corporativos. Paralelamente, venho direcionando minha carreira para o desenvolvimento de software, com foco em Front-end utilizando JavaScript, TypeScript e React.
+Tenho experiência prática com análise de sistemas, banco de dados Oracle SQL, manipulação de XML, documentação técnica, atendimento a chamados e resolução de problemas em ambientes corporativos. Paralelamente, desenvolvo continuamente minhas habilidades em **desenvolvimento Front-end**, com foco em JavaScript, TypeScript e React, construindo interfaces modernas, responsivas e centradas na experiência do usuário.
 
-Busco desenvolver aplicações modernas, responsivas e com foco na experiência do usuário, aplicando boas práticas de programação, versionamento de código e aprendizado contínuo.
+Busco uma oportunidade para atuar diretamente no desenvolvimento de software, aplicar boas práticas de programação, versionamento de código e crescer tecnicamente em projetos reais.
 
 <p align="left">
     <a href="https://github.com/Olavohenrique03?tab=followers">
@@ -14,6 +14,20 @@ Busco desenvolver aplicações modernas, responsivas e com foco na experiência 
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Olavohenrique03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/olavo-henrique-marquespeixoto-255205248/">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://olavohenrique03.github.io/">
+        <img 
+            alt="Portfólio" 
+            title="Meu Portfólio" 
+            src="https://custom-icon-badges.demolab.com/badge/Portfólio-20c997?style=for-the-badge&logo=globe&logoColor=white"
         />
     </a>
 </p>
@@ -48,11 +62,35 @@ Busco desenvolver aplicações modernas, responsivas e com foco na experiência 
 />
 <img 
     align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
@@ -64,8 +102,16 @@ Busco desenvolver aplicações modernas, responsivas e com foco na experiência 
 />
 <img 
     align="left" 
-    alt="Sql" 
-    title="Sql"
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL/Oracle" 
+    title="SQL/Oracle"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
@@ -78,48 +124,88 @@ Busco desenvolver aplicações modernas, responsivas e com foco na experiência 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"
 />
-<img
+<img 
     align="left" 
-    alt="C#" 
-    title="C#"
+    alt="Figma" 
+    title="Figma"
     width="30px" 
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
-          
+
 <br/>
 <br/>
+
+---
+
+### 💼 Experiência Profissional
+
+**🏢 Incosystem** — *Analista de Suporte de Sistemas* `Abr/2025 – Atual`
+- Suporte técnico e funcional ao ERP AS3 (remoto e presencial)
+- Atendimento e resolução de chamados via AnyDesk e LogMeIn
+- Consulta e manipulação de dados em banco Oracle com SQL
+- Análise de arquivos XML e acompanhamento de correções de falhas
+- Testes, validações e apoio em implantações de novos módulos
+- Registro técnico de erros, análise de logs e elaboração de relatórios
+
+**📞 Winover – Call Center** — *Operador Receptivo* `Mai/2024 – Dez/2024`
+- Atendimento receptivo com foco em negociação e renegociação com clientes
+- Desenvolvimento de habilidades em comunicação, resolução de conflitos e organização
+
+---
+
+### 🚀 Projetos
+
+**[Portfólio Pessoal](https://olavohenrique03.github.io/)**  
+`HTML · CSS · JavaScript`  
+Interface moderna e responsiva para apresentação profissional, reunindo informações pessoais, habilidades técnicas e projetos desenvolvidos.
+
+---
+
+### 🎓 Formação & Cursos
+
+🎓 **Bacharelado em Sistemas de Informação** — Universidade de Mogi das Cruzes (UMC) `2022 – 2025`
+
+📚 **Cursos:**
+- TypeScript do Zero
+- Git e GitHub para Desenvolvimento
+- Banco de Dados SQL e PostgreSQL
+- Desenvolvimento Web com JavaScript
+- Lógica de Programação e Algoritmos com JavaScript
+- Programar com IA
+
+---
+
+### 🌎 Idiomas
+
+🇧🇷 **Português** — Nativo  
+🇺🇸 **Inglês** — Básico-Avançado *(em desenvolvimento)* — Certificado de nível básico + experiência de imersão no Canadá
+
+---
 
 ### 🐱‍🏍 Estatísticas
 
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats 1" 
+    alt="GitHub Stats" 
     height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Olavohenrique03&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img  
+  <img  
     align="left"
-    alt="GitHub Stats 2" 
+    alt="Top Langs" 
     height="170" 
-    style="padding-top: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=olavohenrique03&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <img
    align="left"
-   alt="activity-graph graph" 
+   alt="Activity Graph" 
    height="289"
-   style="padding-top: 10px;"
    src="https://github-readme-activity-graph.vercel.app/graph?username=olavohenrique03&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true"
- />
-
-
-
-
-            
+/>
