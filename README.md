@@ -1,8 +1,12 @@
-# 👨🏻‍💻 Olavo H . M Peixoto
+# 👨🏻‍💻 Olavo Henrique Marques Peixoto
 
-**`Desenvolvedor Front-end/Web`**
+**`Desenvolvedor Front-end Júnior | JavaScript | TypeScript | React | SQL`**
 
-Olá! Sou estudante de Sistemas de Informação pela Faculdade Mogi das Cruzes, atualmente no sétimo semestre. Tenho me dedicado a aprofundar meu conhecimento em desenvolvimento web, especialmente em HTML, CSS e JavaScript, que são atualmente meu principal foco.
+Formado em Sistemas de Informação e atualmente atuando como Analista de Suporte de Sistemas na Incosystem, prestando suporte técnico e funcional ao ERP AS3.
+
+Tenho experiência com análise de sistemas, banco de dados Oracle SQL, XML, documentação técnica e resolução de problemas em ambientes corporativos. Paralelamente, venho direcionando minha carreira para o desenvolvimento de software, com foco em Front-end utilizando JavaScript, TypeScript e React.
+
+Busco desenvolver aplicações modernas, responsivas e com foco na experiência do usuário, aplicando boas práticas de programação, versionamento de código e aprendizado contínuo.
 
 <p align="left">
     <a href="https://github.com/Olavohenrique03?tab=followers">
