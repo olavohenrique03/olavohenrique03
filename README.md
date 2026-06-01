@@ -185,7 +185,7 @@ Interface moderna e responsiva para apresentação profissional, reunindo inform
 
 ### 🐱‍🏍 Estatísticas
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
 
 <img
    align="left"
